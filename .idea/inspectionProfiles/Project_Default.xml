@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="947" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="9">
+            <item index="0" class="java.lang.String" itemvalue="sqlalchemy_utils" />
+            <item index="1" class="java.lang.String" itemvalue="eventlet" />
+            <item index="2" class="java.lang.String" itemvalue="confluent_kafka" />
+            <item index="3" class="java.lang.String" itemvalue="six" />
+            <item index="4" class="java.lang.String" itemvalue="gevent" />
+            <item index="5" class="java.lang.String" itemvalue="mongo-mq" />
+            <item index="6" class="java.lang.String" itemvalue="setuptools" />
+            <item index="7" class="java.lang.String" itemvalue="kombu" />
+            <item index="8" class="java.lang.String" itemvalue="kafka-python" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
