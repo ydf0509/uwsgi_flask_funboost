@@ -15,9 +15,9 @@ python funboost_funcs.py  # 第一次运行funboost会在项目根目录下生�
 
 ```
 cd 到当前项目根目录 uwsgi_flask_funboost
-export pythonpath=./
+export pythonpath=./     # 这一步重要，去看 pythonpathdemo  项目 https://github.com/ydf0509/pythonpathdemo
 
-uwsgi --ini uwsgi_conf.ini
+uwsgi --ini uwsgi_conf.ini   
 
 ```
 
