@@ -1,6 +1,6 @@
 
 
-# uwsgi + falsk + funboost demo演示，部署应该分为两两次部署
+# uwsgi + flask + funboost demo演示，部署应该分为两两次部署
 
 
 # 1 启动消费  
