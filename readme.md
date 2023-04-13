@@ -1,6 +1,6 @@
 
 
-# 部署应该分为两两次部署
+# uwsgi + falsk + funboost demo演示，部署应该分为两两次部署
 
 
 # 1 启动消费  
