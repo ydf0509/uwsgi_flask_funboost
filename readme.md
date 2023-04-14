@@ -29,4 +29,8 @@ uwsgi --ini uwsgi_conf.ini
 
 可以看到接口中发布x=4 y=8 到消息队列中， 后台消费进程会从消息队列中拉取消息运行 4+8
 
+接口中推送消息截图
+![img_1.png](img_1.png)
+
+后台消费消息截图
 ![img.png](img.png)
